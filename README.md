@@ -3,6 +3,8 @@
 
 ## Задача: Классификация текстов с использованием рекуррентной нейронной сети
 
+Классификация была выполнена с использованием рекрентной нейронной сети (LSTM) на PyTorch
+
 Используются данные с соревнования VK CUP 2022 ссылка на kaggle
 [Russian Social Media Text Classification](https://www.kaggle.com/datasets/mikhailma/russian-social-media-text-classification/data)
 
@@ -25,3 +27,6 @@
 <img width="925" alt="image" src="https://github.com/lteplova/rnn_in_nlp/assets/38242392/6d384fac-73e5-4284-8442-6c260ad5ba28">
 
 Данные сбалансированы по классам, можем использовать Accuracy как метрику для оценки качества.
+
+
+
