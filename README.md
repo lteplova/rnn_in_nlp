@@ -28,5 +28,8 @@
 
 Данные сбалансированы по классам, можем использовать Accuracy как метрику для оценки качества.
 
+Для применения модели в дальнейшем используется FasAPI-сервис, описание и код доступен в следующем репозитории: 
+<a href="https://github.com/lteplova/RNN_Classification_FasAPI">https://github.com/lteplova/RNN_Classification_FasAPI</a>
+
 
 
